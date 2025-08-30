@@ -13,18 +13,18 @@ import { Input } from "./components/ui/input";
 import { Switch } from "./components/ui/switch";
 // ---------- Mock Data ---------- //
 const MOCK_STUDENTS = [
-  { id: 1, name: "Aarav Sharma", grade: "A", score: 92, subject: "Mathematics" },
-  { id: 2, name: "Isha Verma", grade: "B", score: 78, subject: "Science" },
-  { id: 3, name: "Vihaan Patel", grade: "A", score: 88, subject: "English" },
-  { id: 4, name: "Ananya Gupta", grade: "C", score: 67, subject: "Mathematics" },
-  { id: 5, name: "Rohan Das", grade: "B", score: 81, subject: "History" },
-  { id: 6, name: "Sara Khan", grade: "A", score: 94, subject: "Science" },
-  { id: 7, name: "Aditya Rao", grade: "B", score: 76, subject: "English" },
-  { id: 8, name: "Mira Menon", grade: "A", score: 90, subject: "Computer Science" },
-  { id: 9, name: "Kabir Singh", grade: "C", score: 65, subject: "History" },
-  { id: 10, name: "Neha Joshi", grade: "B", score: 82, subject: "Mathematics" },
-  { id: 11, name: "Devika Nair", grade: "A", score: 96, subject: "Computer Science" },
-  { id: 12, name: "Arjun Mehta", grade: "D", score: 55, subject: "Science" },
+  { id: 1, name: "Arun", grade: "A", score: 92, subject: "Mathematics" },
+  { id: 2, name: "Kavin", grade: "B", score: 78, subject: "Science" },
+  { id: 3, name: "Saran", grade: "A", score: 88, subject: "English" },
+  { id: 4, name: "Dheena", grade: "C", score: 67, subject: "Mathematics" },
+  { id: 5, name: "Siva", grade: "B", score: 81, subject: "History" },
+  { id: 6, name: "Sabinath", grade: "A", score: 94, subject: "Science" },
+  { id: 7, name: "Ragul", grade: "B", score: 76, subject: "English" },
+  { id: 8, name: "Malathi", grade: "A", score: 90, subject: "Computer Science" },
+  { id: 9, name: "Kaviya", grade: "C", score: 65, subject: "History" },
+  { id: 10, name: "Naveen", grade: "B", score: 82, subject: "Mathematics" },
+  { id: 11, name: "Deppa", grade: "A", score: 96, subject: "Computer Science" },
+  { id: 12, name: "Arjun", grade: "D", score: 55, subject: "Science" },
 ];
 
 // ---------- Utilities ---------- //
